@@ -16,7 +16,7 @@ const CorporateAgency = () => {
 
     return (
         <>
-        <SEO title="Corporate Agency"/>
+        <SEO title="Kezdőlap"/>
         <ColorSwitcher />
         <main className="main-wrapper">
         <HeaderFour />
@@ -25,7 +25,7 @@ const CorporateAgency = () => {
         <div className="section section-padding">
             <div className="container">
             <SectionTitle 
-                subtitle="What We Can Do For You"
+                /*subtitle="What We Can Do For You"*/
                 title="Services we can <br> help you with"
                 description=""
                 textAlignment="heading-left mb--20 mb_md--70"
