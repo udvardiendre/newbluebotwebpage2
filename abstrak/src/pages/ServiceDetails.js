@@ -28,7 +28,7 @@ const ServiceDetails = () => {
 
     return (
         <>
-        <SEO title="Service Details" />
+        <SEO title="Szolgáltatásaink" />
         <ColorSwitcher />
         <main className="main-wrapper">
             <HeaderOne />
@@ -36,7 +36,7 @@ const ServiceDetails = () => {
             title={detailsService.title}
             paragraph ={detailsService.description}
             styleClass=""
-            mainThumb="/images/banner/banner-thumb-4.png"
+            mainThumb="/images/banner/robotic_arm.png"
             />
             <AboutTwo />
            
