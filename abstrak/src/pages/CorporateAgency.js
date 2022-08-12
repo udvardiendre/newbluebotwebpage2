@@ -26,7 +26,7 @@ const CorporateAgency = () => {
             <div className="container">
             <SectionTitle 
                 /*subtitle="What We Can Do For You"*/
-                title="Services we can <br> help you with"
+                title="Mivel foglalkozunk?"
                 description=""
                 textAlignment="heading-left mb--20 mb_md--70"
                 textColor=""
