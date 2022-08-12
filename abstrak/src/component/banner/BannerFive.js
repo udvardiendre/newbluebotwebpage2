@@ -5,13 +5,13 @@ import FormOne from '../contact/FormOne';
 
 const BannerFive = () => {
     return (
-        <div className="banner banner-style-5" style={{backgroundImage:`url(${process.env.PUBLIC_URL + "/images/banner/banner-bg-1.png"})`}}>
+        <div className="banner banner-style-5" style={{backgroundImage:`url(${process.env.PUBLIC_URL + "/images/banner/banner1.jpg"})`}}>
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6 col-xl-7">
                         <div className="banner-content">
-                            <h1 className="title">Technology 
-                                &amp; design Studio</h1>
+                            <h1 className="title">BlueBot 
+                                 Company</h1>
                             <div>
                                 <Link to={process.env.PUBLIC_URL + "/project-grid-one"} className="axil-btn btn-fill-white btn-large">View Showcase</Link>
                             </div>
